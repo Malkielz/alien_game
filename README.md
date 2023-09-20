@@ -1,5 +1,21 @@
 # 外星人入侵游戏
 
+:bowtie:	bowtie
+:neckbeard:	neckbeard
+:octocat:	octocat
+:shipit:	shipit
+:trollface:	trollface
+:suspect:	 suspect
+:hurtrealbad:	hurtrealbad
+:feelsgood:	feelsgood
+:goberserk:	 goberserk
+:finnadie:	finnadie
+:rage1:	rage1
+:rage2:	rage2
+:rage3:	rage3
+:rage4:	rage4
+:godmode:	godmode
+
 **游戏背景介绍**
 
 在未来的太空时代，地球突然遭受到了来自外星人的入侵威胁。这些外星生物带来了强大的战舰和先进的武器技术，它们的目标是摧毁地球上的一切，并占据我们的星球。
