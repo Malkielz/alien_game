@@ -47,3 +47,60 @@
 4. 运行以下命令以启动游戏：
 
 
+# Alien Invasion Game
+
+**Game Background Introduction**
+
+In the future space era, Earth suddenly faces a grave threat - an invasion from extraterrestrial beings. These extraterrestrial creatures bring with them powerful warships and advanced weapons technology. Their goal is to destroy everything on Earth and seize our planet.
+
+You are Earth's last line of defense, dispatched to a critical defense stronghold. Your mission is to use limited resources and warships to stop the extraterrestrials and their allies, the enemy warships, from taking over Earth. You must cleverly deploy warships, make efficient use of funds, and simultaneously fend off the extraterrestrial onslaught.
+
+Your decisions and tactics will determine the fate of Earth. Can you successfully halt the alien invasion and safeguard our planet?
+
+## The Game
+
+This is a command-line text-based game where players need to deploy warships on a 20x20 grid to defend against an invasion of extraterrestrials and enemy warships. The objective of the game is to prevent the aliens and enemy warships from destroying all your warships and occupying a certain percentage of territory.
+
+## Game Rules
+
+1. The game grid size is 20x20.
+
+2. You start with an initial fund of $1000, which you can use to purchase different types of warships.
+
+3. There are three different types of warships available for purchase: Small Warship, Medium Warship, and Large Warship. Each type of warship has different prices, attack ranges, and attack strengths.
+
+4. Extraterrestrial beings will appear randomly on the grid at the beginning of the game.
+
+5. Enemy warships will also appear randomly on the grid at the beginning of the game.
+
+6. The game is divided into multiple rounds, with the first two rounds not checking for failure conditions. Starting from the third round, if a certain percentage of the map is occupied by enemy forces, you will fail.
+
+7. In each round, you can choose to purchase warships, deploy warships, initiate attacks, or exit the game.
+
+8. Your warships are deployed on the grid and can attack enemy warships within a specific range. When you attack an enemy warship, it takes damage and its health decreases.
+
+9. Extraterrestrial beings and enemy warships will periodically attack your warships, causing damage.
+
+10. At the end of each round, you will receive a certain amount of funds that can be used to purchase more warships.
+
+11. The game continues until your funds are depleted, all enemy warships are destroyed, or the failure conditions are met.
+
+## How to Run the Game
+
+1. Ensure that you have Python installed on your system.
+
+2. Download the game code file `game.py` and save it to your local directory.
+
+3. In the command-line terminal, navigate to the directory containing the game code.
+
+4. Run the following command to start the game:
+
+5. The game will start in the terminal. Follow the in-game prompts to buy warships, deploy warships, initiate attacks, or exit the game.
+
+6. The game will proceed according to the rules until it concludes.
+
+7. After the game ends, you can decide whether to restart the game based on the results.
+
+We hope you enjoy this Alien Invasion Game! If you have any questions or feedback, please feel free to reach out.
+
+
