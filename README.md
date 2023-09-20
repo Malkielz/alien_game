@@ -120,5 +120,5 @@ This is a command-line text-based game where players need to deploy warships on 
 We hope you enjoy this Alien Invasion Game! If you have any questions or feedback, please feel free to reach out.
 
 
-![image]([https://github.com/ZhiliangMa/MPU6500-HMC5983-AK8975-BMP280-MS5611-10DOF-IMU-PCB/blob/main/img/IMU-V5-TOP.jpg](https://github.com/Malkielz/alien_game/blob/main/img/2.jpg)https://github.com/Malkielz/alien_game/blob/main/img/2.jpg)
+![image](https://github.com/Malkielz/alien_game/blob/main/img/2.jpg)
 
